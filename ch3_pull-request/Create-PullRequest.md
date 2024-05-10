@@ -26,7 +26,7 @@ In Chapter 3 - _Teamwork and Collaborative Development_ we learn how to collabo
 
    Make sure that the pull request uses base:main and not the upstream repository. This should be correct by default.
 
-7. Got to `Files changed` and note the changes (deleted lines red, added lines green). Add a comment to a line by clicking the `+`at the beginning of the line when hovering with the mouse over it. Add a comment to line nine and click `Add single comment`.
+7. Got to `Files changed` and note the changes (deleted lines red, added lines green). Add a comment to a line by clicking the `+`at the beginning o 
 
    ![Comment on changes](img/comment.png)
 
@@ -41,3 +41,7 @@ In Chapter 3 - _Teamwork and Collaborative Development_ we learn how to collabo
    Navigate back to the pull request and note that you can review the file with all changes (`Files changed`) or individual `Commits`. You can comment in both views.
 
    ![Changes](img/changes.png)
+   9.  시험중
+   10.  열번째 항 목을 추가했습니다.
+  
+   11.  열한번째 추가사항입니다.
